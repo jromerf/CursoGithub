@@ -5,4 +5,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/jromerf/CursoGithub)
 
 Readme mejorado
+*Incluye varios ejemplos
+*Disponible para todos
 Practicas para manejar github
