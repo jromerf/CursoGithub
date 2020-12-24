@@ -6,4 +6,5 @@
 
 Readme mejorado
 *Incluye varios ejemplos
+*Disponible para todos
 Practicas para manejar github
