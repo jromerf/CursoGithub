@@ -4,5 +4,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jromerf/CursoGithub)
 ![GitHub language count](https://img.shields.io/github/languages/count/jromerf/CursoGithub)
 
-
+Readme mejorado
 Practicas para manejar github
